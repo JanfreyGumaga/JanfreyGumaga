@@ -12,9 +12,12 @@ I am Janfrey Ivan Gumaga, a passionate coder with expertise in database manageme
 
 ## Certification
 
-- **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](certification-link-1)**
-- **[Oracle Cloud Data Management 2023 Certified Foundations Associate](certification-link-2)**
-- **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certification-link-3)**
+- **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://sg.docworkspace.com/d/sIALK98XqAbf_66sG?sa=e1&st=0t
+)**
+- **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://sg.docworkspace.com/d/sIJzK98XqAZT_66sG?sa=e1&st=0t
+)**
+- **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://sg.docworkspace.com/d/sICbK98XqAcf_66sG?sa=e1&st=0t
+)**
 - **[SQL and Relational Databases 101](certification-link-4)**
 
 ## Skill sets
